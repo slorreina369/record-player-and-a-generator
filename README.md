@@ -15,6 +15,11 @@ A password generator for those that are hoping to have strong passwords that are
 
 ## Screenshots 
 
-![Password Character Aler](./Doc%20Assets/Password%20Character%20Alert.png)
+### Page Before Any Prompting
 ![Password Generator](./Doc%20Assets/Password%20Generator.png)
+
+### Alert for When There Are No Characters Selected
+![Password Character Aler](./Doc%20Assets/Password%20Character%20Alert.png)
+
+### Alert for When Someone Requests an Invalid Length
 ![Password Length Alert](./Doc%20Assets/Password%20Length%20Alert.png)
